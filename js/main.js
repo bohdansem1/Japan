@@ -63,5 +63,3 @@ menuCloseItem.addEventListener('click', () => {
     scrollTo();
 }());
 
-//////////////////////
-////
